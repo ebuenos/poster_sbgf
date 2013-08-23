@@ -12,7 +12,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="poster_sbgf_2.svg"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.2 r9819"
    version="1.1"
    id="svg2"
    height="3188.9763"
@@ -25,16 +25,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.18576532"
-     inkscape:cx="3277.9427"
+     inkscape:cx="5861.848"
      inkscape:cy="1991.4326"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="m"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-width="1280"
+     inkscape:window-height="752"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-grids="false"
      inkscape:snap-to-guides="false"
@@ -3953,13 +3953,14 @@
            x="664"
            y="-635.02368" /></flowRegion><flowPara
          id="flowPara8904" /></flowRoot>    <image
-       style="stroke:#000000;stroke-opacity:1"
-       y="-1852.3848"
-       x="6485.1299"
-       id="image42236"
-       xlink:href="file:///home/edgar/Desktop/poster_sbgf/Figs/logo/sbgf_logo_transp.gif"
+       sodipodi:absref="/Users/hbueno/work/events/SBGf/sbgf2013-edgar/poster_sbgf/Figs/logo/sbgf_logo_transp.gif"
+       xlink:href="Figs/logo/sbgf_logo_transp.gif"
+       width="354.43457"
        height="226.64594"
-       width="354.43457" />
+       id="image42236"
+       x="6485.1299"
+       y="-1852.3848"
+       style="stroke:#000000;stroke-opacity:1" />
     <g
        style="stroke:#000000;stroke-opacity:1"
        id="g42300"
@@ -4001,14 +4002,14 @@
          style="fill:#0067a6;stroke:#000000;stroke-opacity:1" />
     </g>
     <image
-       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/logo/logo_inpe.png"
+       sodipodi:absref="/Users/hbueno/work/events/SBGf/sbgf2013-edgar/poster_sbgf/Figs/logo/logo_inpe.png"
        xlink:href="Figs/logo/logo_inpe.png"
-       style="stroke:#000000;stroke-opacity:1"
-       y="-1491.7444"
-       x="5867.5088"
-       id="image42373"
+       width="708.86914"
        height="123.96938"
-       width="708.86914" />
+       id="image42373"
+       x="5867.5088"
+       y="-1491.7444"
+       style="stroke:#000000;stroke-opacity:1" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:1.1571666;stroke-opacity:1"
        id="rect42376"
@@ -4619,100 +4620,100 @@
          id="flowPara89023-0">ꔷ item 3</flowPara><flowPara
          id="flowPara89025-9">ꔷ item 4</flowPara><flowPara
          id="flowPara89027-0">ꔷ item 5</flowPara></flowRoot>    <image
-       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/mt/tm02.013_rsp16-30.png"
+       sodipodi:absref="/Users/hbueno/work/events/SBGf/sbgf2013-edgar/poster_sbgf/Figs/mt/tm02.013_rsp16-30.png"
        xlink:href="Figs/mt/tm02.013_rsp16-30.png"
-       width="612.52722"
-       height="779.52759"
-       id="image89258"
+       y="85.550484"
        x="2077.9065"
-       y="85.550484" />
-    <image
-       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/mt/tm03_55E_model000.png"
-       xlink:href="Figs/mt/tm03_55E_model000.png"
-       width="1771.6536"
-       height="825.35114"
-       id="image89320"
-       x="3065.269"
-       y="-960.91681" />
-    <image
-       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/mt/tm03_55E.000_rsp01-15.png"
-       xlink:href="Figs/mt/tm03_55E.000_rsp01-15.png"
-       width="779.52759"
-       height="992.05914"
-       id="image89382"
-       x="4974.4956"
-       y="-1266.1278" />
-    <image
-       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/mt/tmte03_55_mod_model009.png"
-       xlink:href="Figs/mt/tmte03_55_mod_model009.png"
-       width="1771.6536"
-       height="825.35114"
-       id="image89444"
-       x="3138.1616"
-       y="101.5862" />
-    <image
-       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/mt/tmte03_55_mod.009_rspTETM31-43.png"
-       xlink:href="Figs/mt/tmte03_55_mod.009_rspTETM31-43.png"
-       width="644.60938"
+       id="image89258"
        height="779.52759"
-       id="image89506"
-       x="5039.0107"
-       y="96.203064" />
+       width="612.52722" />
     <image
-       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/mt/tm02_model013_pt-BR.png"
-       xlink:href="Figs/mt/tm02_model013_pt-BR.png"
-       width="1771.6536"
+       sodipodi:absref="/Users/hbueno/work/events/SBGf/sbgf2013-edgar/poster_sbgf/Figs/mt/tm03_55E_model000.png"
+       xlink:href="Figs/mt/tm03_55E_model000.png"
+       y="-960.91681"
+       x="3065.269"
+       id="image89320"
        height="825.35114"
-       id="image89587"
+       width="1771.6536" />
+    <image
+       sodipodi:absref="/Users/hbueno/work/events/SBGf/sbgf2013-edgar/poster_sbgf/Figs/mt/tm03_55E.000_rsp01-15.png"
+       xlink:href="Figs/mt/tm03_55E.000_rsp01-15.png"
+       y="-1266.1278"
+       x="4974.4956"
+       id="image89382"
+       height="992.05914"
+       width="779.52759" />
+    <image
+       sodipodi:absref="/Users/hbueno/work/events/SBGf/sbgf2013-edgar/poster_sbgf/Figs/mt/tmte03_55_mod_model009.png"
+       xlink:href="Figs/mt/tmte03_55_mod_model009.png"
+       y="101.5862"
+       x="3138.1616"
+       id="image89444"
+       height="825.35114"
+       width="1771.6536" />
+    <image
+       sodipodi:absref="/Users/hbueno/work/events/SBGf/sbgf2013-edgar/poster_sbgf/Figs/mt/tmte03_55_mod.009_rspTETM31-43.png"
+       xlink:href="Figs/mt/tmte03_55_mod.009_rspTETM31-43.png"
+       y="96.203064"
+       x="5039.0107"
+       id="image89506"
+       height="779.52759"
+       width="644.60938" />
+    <image
+       sodipodi:absref="/Users/hbueno/work/events/SBGf/sbgf2013-edgar/poster_sbgf/Figs/mt/tm02_model013_pt-BR.png"
+       xlink:href="Figs/mt/tm02_model013_pt-BR.png"
+       y="104.58274"
        x="161.60771"
-       y="104.58274" />
+       id="image89587"
+       height="825.35114"
+       width="1771.6536" />
     <image
-       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/coleta.jpg"
+       sodipodi:absref="/Users/hbueno/work/events/SBGf/sbgf2013-edgar/poster_sbgf/Figs/coleta.jpg"
        xlink:href="Figs/coleta.jpg"
-       width="498"
-       height="424"
-       id="image89668"
+       y="-1085.7147"
        x="390.48401"
-       y="-1085.7147" />
+       id="image89668"
+       height="424"
+       width="498" />
     <image
-       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/cong.jpg"
+       sodipodi:absref="/Users/hbueno/work/events/SBGf/sbgf2013-edgar/poster_sbgf/Figs/cong.jpg"
        xlink:href="Figs/cong.jpg"
-       width="288"
-       height="177"
-       id="image4238"
+       y="-3095.0344"
        x="410.46298"
-       y="-3095.0344" />
+       id="image4238"
+       height="177"
+       width="288" />
     <image
-       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/1.jpg"
+       sodipodi:absref="/Users/hbueno/work/events/SBGf/sbgf2013-edgar/poster_sbgf/Figs/1.jpg"
        xlink:href="Figs/1.jpg"
-       width="827"
-       height="496"
-       id="image4303"
+       y="-3060.7417"
        x="1077.6287"
-       y="-3060.7417" />
+       id="image4303"
+       height="496"
+       width="827" />
     <image
-       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/13.jpg"
+       sodipodi:absref="/Users/hbueno/work/events/SBGf/sbgf2013-edgar/poster_sbgf/Figs/13.jpg"
        xlink:href="Figs/13.jpg"
-       width="640"
-       height="114"
-       id="image4368"
+       y="-2918.1899"
        x="2387.7175"
-       y="-2918.1899" />
+       id="image4368"
+       height="114"
+       width="640" />
     <image
-       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/header_13CISBGf_1.jpg"
+       sodipodi:absref="/Users/hbueno/work/events/SBGf/sbgf2013-edgar/poster_sbgf/Figs/header_13CISBGf_1.jpg"
        xlink:href="Figs/header_13CISBGf_1.jpg"
-       width="756"
-       height="168"
-       id="image4433"
+       y="-2799.8452"
        x="3314.8313"
-       y="-2799.8452" />
+       id="image4433"
+       height="168"
+       width="756" />
     <image
-       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/url.jpeg"
+       sodipodi:absref="/Users/hbueno/work/events/SBGf/sbgf2013-edgar/poster_sbgf/Figs/url.jpeg"
        xlink:href="Figs/url.jpeg"
-       width="961"
-       height="165"
-       id="image4498"
+       y="-2566.8704"
        x="4202.8281"
-       y="-2566.8704" />
+       id="image4498"
+       height="165"
+       width="961" />
   </g>
 </svg>
