@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45254834"
-     inkscape:cx="1433.9529"
-     inkscape:cy="771.6839"
+     inkscape:zoom="0.16"
+     inkscape:cx="2814.4368"
+     inkscape:cy="359.20202"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -2376,41 +2376,6 @@
          id="rect5032"
          style="fill:#000000;fill-opacity:1;stroke:none" />
     </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4977">
-      <rect
-         style="opacity:0.67901234;fill:#666666;fill-opacity:1;stroke:none"
-         id="rect4979"
-         width="2871.875"
-         height="929.6875"
-         x="-13.45965"
-         y="1913.2876"
-         ry="32.568672" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4977-1">
-      <rect
-         style="opacity:0.67901234;fill:#666666;fill-opacity:1;stroke:none"
-         id="rect4979-3"
-         width="2871.875"
-         height="929.6875"
-         x="-13.45965"
-         y="1913.2876"
-         ry="32.568672" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath6147">
-      <rect
-         style="opacity:0.67901234;fill:#666666;fill-opacity:1;stroke:#3b79b2;stroke-width:0.99512422;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="rect6149"
-         width="2823.3445"
-         height="927.75043"
-         x="-11.520011"
-         y="1908.8848" />
-    </clipPath>
   </defs>
   <metadata
      id="metadata7">
@@ -2482,7 +2447,7 @@
            id="rect8864" /></flowRegion><flowPara
          style="font-size:48px;text-align:justify;text-anchor:start;fill:#000000"
          id="flowPara8880">In the past years, substantial effort has been directed to improve the magnetotelluric (MT) inversion algorithms. Many different techniques were developed to estimate 2-D/3-D geoelectric models of the Earth. However, to evaluate the deep structural architecture of the lithosphere under a  sedimentary basin is a great challenge, requiring the integration of different geophysical and geological studies. In this paper, we present the resulting Paraná Basin lithospheric model, obtained from processing and inversion of broadband and long-period magnetotelluric soundings along an E-W profile across the central part of the basin. Our results are complemented by a qualitative joint interpretation of gravimetric data, in order to obtain a more precise geoelectric model of the deep structure of the region.</flowPara></flowRoot>    <flowRoot
-       transform="translate(-36.38,3003.1463)"
+       transform="translate(1719.87,1715.6463)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot8054"
        xml:space="preserve"><flowRegion
@@ -2507,7 +2472,7 @@
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot89013-4"
        xml:space="preserve"
-       transform="translate(1125.3998,-2284.281)"><flowRegion
+       transform="translate(1067.2207,-2309.189)"><flowRegion
          id="flowRegion89015-6"><rect
            y="1081.4785"
            x="1291.9526"
@@ -2521,11 +2486,11 @@
          id="flowPara89027-0">ꔷ item 5</flowPara></flowRoot>    <image
        sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/geologia.png"
        xlink:href="Figs/geologia.png"
-       width="1062.9921"
-       height="665.23132"
+       y="-230.04103"
+       x="1118.2529"
        id="image14182"
-       x="1193.3831"
-       y="-305.17111" />
+       height="665.23132"
+       width="1062.9921" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -2538,17 +2503,17 @@
          id="tspan14322" /></text>
     <g
        id="g14611"
-       transform="matrix(1.3888889,0,0,1.3888889,-4364.4161,4232.8996)">
+       transform="matrix(1.3888889,0,0,1.3888889,-4382.0938,4290.352)">
       <g
          id="g14568">
         <image
            sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/apaapg.png"
            xlink:href="Figs/apaapg.png"
-           width="637.79529"
-           height="708.00842"
-           id="image14247"
+           y="-3269.9749"
            x="3236.9543"
-           y="-3269.9749" />
+           id="image14247"
+           height="708.00842"
+           width="637.79529" />
         <flowRoot
            xml:space="preserve"
            id="flowRoot14285"
@@ -2671,6 +2636,191 @@
                style="font-size:26px" /></flowRegion><flowPara
              id="flowPara14291-4-2"
              style="font-size:26px;text-align:center;text-anchor:middle">Chaco-Paraná Basin</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g4328"
+       transform="translate(4012.5,-3200)">
+      <g
+         id="g4313">
+        <g
+           id="g4299">
+          <g
+             id="g4286">
+            <g
+               id="g4274">
+              <image
+                 sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/bouguer_anomaly0_km.png"
+                 xlink:href="Figs/grav/bouguer_anomaly0_km.png"
+                 width="531.49603"
+                 height="398.62207"
+                 id="image27565"
+                 x="0"
+                 y="1893.8854" />
+              <image
+                 sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/bouguer_anomaly25_km.png"
+                 xlink:href="Figs/grav/bouguer_anomaly25_km.png"
+                 width="531.49603"
+                 height="398.62204"
+                 id="image27630"
+                 x="566.92914"
+                 y="1893.8855" />
+              <image
+                 sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/bouguer_anomaly50_km.png"
+                 xlink:href="Figs/grav/bouguer_anomaly50_km.png"
+                 width="531.49603"
+                 height="398.62204"
+                 id="image27765"
+                 x="1133.8583"
+                 y="1893.8855" />
+              <image
+                 sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/bouguer_anomaly75_km.png"
+                 xlink:href="Figs/grav/bouguer_anomaly75_km.png"
+                 width="531.49603"
+                 height="398.62204"
+                 id="image27830"
+                 x="1700.7874"
+                 y="1893.8855" />
+              <image
+                 sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/bouguer_anomaly100_km.png"
+                 xlink:href="Figs/grav/bouguer_anomaly100_km.png"
+                 width="531.49603"
+                 height="398.62204"
+                 id="image27895"
+                 x="2267.7166"
+                 y="1893.8855" />
+              <image
+                 sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/bouguer_profile0_km.png"
+                 xlink:href="Figs/grav/bouguer_profile0_km.png"
+                 width="531.49603"
+                 height="398.62204"
+                 id="image27960"
+                 x="0"
+                 y="2425.3816" />
+              <image
+                 sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/bouguer_profile25_km.png"
+                 xlink:href="Figs/grav/bouguer_profile25_km.png"
+                 y="2425.3816"
+                 x="566.92914"
+                 id="image28025"
+                 height="398.62204"
+                 width="531.49603" />
+              <image
+                 sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/bouguer_profile50_km.png"
+                 xlink:href="Figs/grav/bouguer_profile50_km.png"
+                 y="2425.3816"
+                 x="1133.8583"
+                 id="image28090"
+                 height="398.62204"
+                 width="531.49603" />
+              <image
+                 sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/bouguer_profile75_km.png"
+                 xlink:href="Figs/grav/bouguer_profile75_km.png"
+                 y="2425.3816"
+                 x="1700.7874"
+                 id="image28209"
+                 height="398.62204"
+                 width="531.49603" />
+              <image
+                 sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/bouguer_profile100_km.png"
+                 xlink:href="Figs/grav/bouguer_profile100_km.png"
+                 y="2425.3816"
+                 x="2267.7166"
+                 id="image28274"
+                 height="398.62204"
+                 width="531.49603" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g4378"
+       transform="translate(3996.7274,-1981.25)">
+      <g
+         id="g4366">
+        <image
+           sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/gzz0_km.png"
+           xlink:href="Figs/grav/gzz0_km.png"
+           width="531.49603"
+           height="398.62204"
+           id="image28339"
+           x="0"
+           y="1893.8855" />
+        <image
+           sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/gzz25_km.png"
+           xlink:href="Figs/grav/gzz25_km.png"
+           width="531.49603"
+           height="398.62204"
+           id="image29314"
+           x="566.92914"
+           y="1893.8855" />
+        <image
+           sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/gzz50_km.png"
+           xlink:href="Figs/grav/gzz50_km.png"
+           width="531.49603"
+           height="398.62204"
+           id="image29379"
+           x="1133.8583"
+           y="1893.8855" />
+        <image
+           sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/gzz75_km.png"
+           xlink:href="Figs/grav/gzz75_km.png"
+           width="531.49603"
+           height="398.62204"
+           id="image29444"
+           x="1700.7874"
+           y="1893.8855" />
+        <image
+           sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/gzz100_km.png"
+           xlink:href="Figs/grav/gzz100_km.png"
+           width="531.49603"
+           height="398.62204"
+           id="image29509"
+           x="2267.7166"
+           y="1893.8855" />
+        <image
+           sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/gzz_profile0_km.png"
+           xlink:href="Figs/grav/gzz_profile0_km.png"
+           width="531.49603"
+           height="398.62204"
+           id="image29574"
+           x="0"
+           y="2425.3816" />
+        <image
+           sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/gzz_profile25_km.png"
+           xlink:href="Figs/grav/gzz_profile25_km.png"
+           inkscape:transform-center-y="1200"
+           inkscape:transform-center-x="1584"
+           width="531.49603"
+           height="398.62204"
+           id="image29639"
+           x="566.92914"
+           y="2425.3816" />
+        <image
+           sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/gzz_profile50_km.png"
+           xlink:href="Figs/grav/gzz_profile50_km.png"
+           width="531.49603"
+           height="398.62204"
+           id="image29704"
+           x="1133.8583"
+           y="2425.3816" />
+        <image
+           sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/gzz_profile75_km.png"
+           xlink:href="Figs/grav/gzz_profile75_km.png"
+           width="531.49603"
+           height="398.62204"
+           id="image29769"
+           x="1700.7874"
+           y="2425.3816" />
+        <image
+           sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/gzz_profile100_km.png"
+           xlink:href="Figs/grav/gzz_profile100_km.png"
+           width="531.49603"
+           height="398.62204"
+           id="image29834"
+           x="2267.7166"
+           y="2425.3816" />
+      </g>
     </g>
     <g
        transform="translate(2.0063264,4.0045979)"
@@ -2961,7 +3111,7 @@
     </g>
     <g
        id="g4103"
-       transform="translate(136.22524,2782.7728)">
+       transform="translate(176,2880)">
       <g
          id="g4095">
         <g
@@ -2991,7 +3141,7 @@
     </g>
     <g
        id="g4169-2"
-       transform="translate(-383.25214,-115.14037)">
+       transform="translate(-383.25214,-131.14037)">
       <g
          id="g4264"
          transform="translate(4197.3858,2715.29)">
@@ -3026,698 +3176,24 @@
       </g>
     </g>
     <flowRoot
-       transform="translate(-1198.5491,1332.7456)"
+       transform="translate(-679.97161,1371.3197)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot8508"
        xml:space="preserve"><flowRegion
          id="flowRegion8510"><rect
            y="-652.02771"
            x="1351.9882"
-           height="333.05801"
-           width="801.58844"
+           height="281.8157"
+           width="1455.6622"
            id="rect8512" /></flowRegion><flowPara
-         style="font-size:36px;text-align:justify;text-anchor:start"
-         id="flowPara8514"><flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
-   id="flowSpan6368">Figure 1:</flowSpan> The purple contours and numbers indicate some of the main tectonic provinces within South American lithospheric plate, being (1) Mantiqueira Province; (2) Tocantins Province; and (3) Pantanal Basin. The red line represents the MT profile.</flowPara></flowRoot>    <image
+         style="font-size:48px;text-align:justify;text-anchor:start"
+         id="flowPara8514">The purple contours and numbers indicate some of the main tectonic provinces within South American lithospheric plate, being (1) Mantiqueira Province; (2) Tocantins Province; and (3) Pantanal Basin. The red line represents the MT profile.</flowPara></flowRoot>    <image
        sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/Dados4.png"
        xlink:href="Figs/Dados4.png"
-       y="-466.05127"
-       x="2890.1252"
-       id="image3823"
+       width="708.66144"
        height="870.15906"
-       width="708.66144" />
-    <g
-       id="g5649"
-       transform="translate(4181.1024,-1396.1815)">
-      <g
-         id="g5574">
-        <g
-           id="g4378"
-           transform="translate(-177.16535,-460.62999)"
-           clip-path="url(#clipPath4977)">
-          <g
-             id="g4366">
-            <image
-               sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/gzz0_km.png"
-               xlink:href="Figs/grav/gzz0_km.png"
-               y="1893.8855"
-               x="0"
-               id="image28339"
-               height="398.62204"
-               width="531.49603" />
-            <image
-               sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/gzz25_km.png"
-               xlink:href="Figs/grav/gzz25_km.png"
-               y="1893.8855"
-               x="566.92914"
-               id="image29314"
-               height="398.62204"
-               width="531.49603" />
-            <image
-               sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/gzz50_km.png"
-               xlink:href="Figs/grav/gzz50_km.png"
-               y="1893.8855"
-               x="1133.8583"
-               id="image29379"
-               height="398.62204"
-               width="531.49603" />
-            <image
-               sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/gzz75_km.png"
-               xlink:href="Figs/grav/gzz75_km.png"
-               y="1893.8855"
-               x="1700.7874"
-               id="image29444"
-               height="398.62204"
-               width="531.49603" />
-            <image
-               sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/gzz100_km.png"
-               xlink:href="Figs/grav/gzz100_km.png"
-               y="1893.8855"
-               x="2267.7166"
-               id="image29509"
-               height="398.62204"
-               width="531.49603" />
-            <image
-               sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/gzz_profile0_km.png"
-               xlink:href="Figs/grav/gzz_profile0_km.png"
-               y="2425.3816"
-               x="0"
-               id="image29574"
-               height="398.62204"
-               width="531.49603" />
-            <image
-               sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/gzz_profile25_km.png"
-               xlink:href="Figs/grav/gzz_profile25_km.png"
-               y="2425.3816"
-               x="566.92914"
-               id="image29639"
-               height="398.62204"
-               width="531.49603"
-               inkscape:transform-center-x="1584"
-               inkscape:transform-center-y="1200" />
-            <image
-               sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/gzz_profile50_km.png"
-               xlink:href="Figs/grav/gzz_profile50_km.png"
-               y="2425.3816"
-               x="1133.8583"
-               id="image29704"
-               height="398.62204"
-               width="531.49603" />
-            <image
-               sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/gzz_profile75_km.png"
-               xlink:href="Figs/grav/gzz_profile75_km.png"
-               y="2425.3816"
-               x="1700.7874"
-               id="image29769"
-               height="398.62204"
-               width="531.49603" />
-            <image
-               sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/gzz_profile100_km.png"
-               xlink:href="Figs/grav/gzz_profile100_km.png"
-               y="2425.3816"
-               x="2267.7166"
-               id="image29834"
-               height="398.62204"
-               width="531.49603" />
-          </g>
-        </g>
-        <g
-           id="g5512">
-          <g
-             id="g5451">
-            <g
-               id="g5435">
-              <g
-                 id="g5420">
-                <g
-                   transform="translate(0.49606299,-0.49606296)"
-                   id="g5191">
-                  <g
-                     id="g5178">
-                    <g
-                       id="g4023"
-                       transform="translate(-1160.9375,4.3307114)">
-                      <g
-                         style="stroke:none"
-                         id="g4015">
-                        <g
-                           style="stroke:none"
-                           id="g3885-2"
-                           transform="translate(-178.125,-231.24996)">
-                          <g
-                             id="g5040">
-                            <g
-                               id="g5032">
-                              <g
-                                 id="g5025">
-                                <rect
-                                   style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:0.99212599;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-                                   id="rect3762-2-7"
-                                   width="203.125"
-                                   height="75"
-                                   x="1339.0625"
-                                   y="1558.6" />
-                                <flowRoot
-                                   xml:space="preserve"
-                                   id="flowRoot3764-5-04"
-                                   style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-                                   transform="translate(40.625,-1971.0013)"><flowRegion
-                                   id="flowRegion3766-8-6"><rect
-                                   id="rect3768-0-4"
-                                   width="196.875"
-                                   height="71.875"
-                                   x="1301.5625"
-                                   y="3529.6013"
-                                   style="text-align:center;text-anchor:middle;stroke:none"
-                                   ry="1.5625" /></flowRegion><flowPara
-                                   id="flowPara3770-4-00"
-                                   style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none">0 km</flowPara></flowRoot>                              </g>
-                            </g>
-                          </g>
-                        </g>
-                      </g>
-                    </g>
-                  </g>
-                </g>
-              </g>
-            </g>
-            <g
-               id="g5339">
-              <g
-                 id="g5328">
-                <g
-                   id="g4023-4"
-                   transform="translate(-593.5123,3.8346484)">
-                  <g
-                     transform="translate(-178.125,-231.24996)"
-                     id="g5040-6"
-                     style="stroke:none">
-                    <g
-                       id="g5032-2">
-                      <g
-                         id="g5025-8">
-                        <rect
-                           style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:0.99212599;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-                           id="rect3762-2-7-5"
-                           width="203.125"
-                           height="75"
-                           x="1339.0625"
-                           y="1558.6" />
-                        <flowRoot
-                           xml:space="preserve"
-                           id="flowRoot3764-5-04-5"
-                           style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-                           transform="translate(40.625,-1971.0013)"><flowRegion
-                             id="flowRegion3766-8-6-7"><rect
-                               id="rect3768-0-4-2"
-                               width="196.875"
-                               height="71.875"
-                               x="1301.5625"
-                               y="3529.6013"
-                               style="text-align:center;text-anchor:middle;stroke:none"
-                               ry="1.5625" /></flowRegion><flowPara
-                             id="flowPara3770-4-00-7"
-                             style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none">25 km</flowPara></flowRoot>                      </g>
-                    </g>
-                  </g>
-                </g>
-              </g>
-            </g>
-            <g
-               id="g5362">
-              <g
-                 id="g5351">
-                <g
-                   style="stroke:none"
-                   id="g3885-2-9"
-                   transform="translate(-204.70817,-227.41531)">
-                  <g
-                     id="g5040-7">
-                    <g
-                       id="g5032-9">
-                      <g
-                         id="g5025-7">
-                        <rect
-                           style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:0.99212599;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-                           id="rect3762-2-7-7"
-                           width="203.125"
-                           height="75"
-                           x="1339.0625"
-                           y="1558.6" />
-                        <flowRoot
-                           xml:space="preserve"
-                           id="flowRoot3764-5-04-1"
-                           style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-                           transform="translate(40.625,-1971.0013)"><flowRegion
-                             id="flowRegion3766-8-6-76"><rect
-                               id="rect3768-0-4-4"
-                               width="196.875"
-                               height="71.875"
-                               x="1301.5625"
-                               y="3529.6013"
-                               style="text-align:center;text-anchor:middle;stroke:none"
-                               ry="1.5625" /></flowRegion><flowPara
-                             id="flowPara3770-4-00-0"
-                             style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none">50 km</flowPara></flowRoot>                      </g>
-                    </g>
-                  </g>
-                </g>
-              </g>
-            </g>
-            <g
-               id="g5385">
-              <g
-                 id="g5374">
-                <g
-                   style="stroke:none"
-                   id="g3885-2-0"
-                   transform="translate(362.22096,-227.41531)">
-                  <g
-                     id="g5040-2">
-                    <g
-                       id="g5032-3">
-                      <g
-                         id="g5025-5">
-                        <rect
-                           style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:0.99212599;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-                           id="rect3762-2-7-9"
-                           width="203.125"
-                           height="75"
-                           x="1339.0625"
-                           y="1558.6" />
-                        <flowRoot
-                           xml:space="preserve"
-                           id="flowRoot3764-5-04-0"
-                           style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-                           transform="translate(40.625,-1971.0013)"><flowRegion
-                             id="flowRegion3766-8-6-1"><rect
-                               id="rect3768-0-4-3"
-                               width="196.875"
-                               height="71.875"
-                               x="1301.5625"
-                               y="3529.6013"
-                               style="text-align:center;text-anchor:middle;stroke:none"
-                               ry="1.5625" /></flowRegion><flowPara
-                             id="flowPara3770-4-00-9"
-                             style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none">75 km</flowPara></flowRoot>                      </g>
-                    </g>
-                  </g>
-                </g>
-              </g>
-            </g>
-            <g
-               id="g5408">
-              <g
-                 id="g5397">
-                <g
-                   style="stroke:none"
-                   id="g3885-2-1"
-                   transform="translate(929.1501,-227.41531)">
-                  <g
-                     id="g5040-72">
-                    <g
-                       id="g5032-0">
-                      <g
-                         id="g5025-4">
-                        <rect
-                           style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:0.99212599;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-                           id="rect3762-2-7-59"
-                           width="203.125"
-                           height="75"
-                           x="1339.0625"
-                           y="1558.6" />
-                        <flowRoot
-                           xml:space="preserve"
-                           id="flowRoot3764-5-04-14"
-                           style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-                           transform="translate(40.625,-1971.0013)"><flowRegion
-                             id="flowRegion3766-8-6-6"><rect
-                               id="rect3768-0-4-8"
-                               width="196.875"
-                               height="71.875"
-                               x="1301.5625"
-                               y="3529.6013"
-                               style="text-align:center;text-anchor:middle;stroke:none"
-                               ry="1.5625" /></flowRegion><flowPara
-                             id="flowPara3770-4-00-73"
-                             style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none">100 km</flowPara></flowRoot>                      </g>
-                    </g>
-                  </g>
-                </g>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
-    <g
-       id="g6229"
-       transform="translate(4134.2927,-2661.0811)">
-      <g
-         id="g6151"
-         transform="translate(46.809658,0)">
-        <g
-           id="g4328"
-           transform="translate(-177.16535,-460.62999)"
-           clip-path="url(#clipPath6147)">
-          <g
-             id="g4313">
-            <g
-               id="g4299">
-              <g
-                 id="g4286">
-                <g
-                   id="g4274">
-                  <image
-                     sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/bouguer_anomaly0_km.png"
-                     xlink:href="Figs/grav/bouguer_anomaly0_km.png"
-                     y="1893.8854"
-                     x="0"
-                     id="image27565"
-                     height="398.62207"
-                     width="531.49603" />
-                  <image
-                     sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/bouguer_anomaly25_km.png"
-                     xlink:href="Figs/grav/bouguer_anomaly25_km.png"
-                     y="1893.8855"
-                     x="566.92914"
-                     id="image27630"
-                     height="398.62204"
-                     width="531.49603" />
-                  <image
-                     sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/bouguer_anomaly50_km.png"
-                     xlink:href="Figs/grav/bouguer_anomaly50_km.png"
-                     y="1893.8855"
-                     x="1133.8583"
-                     id="image27765"
-                     height="398.62204"
-                     width="531.49603" />
-                  <image
-                     sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/bouguer_anomaly75_km.png"
-                     xlink:href="Figs/grav/bouguer_anomaly75_km.png"
-                     y="1893.8855"
-                     x="1700.7874"
-                     id="image27830"
-                     height="398.62204"
-                     width="531.49603" />
-                  <image
-                     sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/bouguer_anomaly100_km.png"
-                     xlink:href="Figs/grav/bouguer_anomaly100_km.png"
-                     y="1893.8855"
-                     x="2267.7166"
-                     id="image27895"
-                     height="398.62204"
-                     width="531.49603" />
-                  <image
-                     sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/bouguer_profile0_km.png"
-                     xlink:href="Figs/grav/bouguer_profile0_km.png"
-                     y="2425.3816"
-                     x="0"
-                     id="image27960"
-                     height="398.62204"
-                     width="531.49603" />
-                  <image
-                     sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/bouguer_profile25_km.png"
-                     xlink:href="Figs/grav/bouguer_profile25_km.png"
-                     width="531.49603"
-                     height="398.62204"
-                     id="image28025"
-                     x="566.92914"
-                     y="2425.3816" />
-                  <image
-                     sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/bouguer_profile50_km.png"
-                     xlink:href="Figs/grav/bouguer_profile50_km.png"
-                     width="531.49603"
-                     height="398.62204"
-                     id="image28090"
-                     x="1133.8583"
-                     y="2425.3816" />
-                  <image
-                     sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/bouguer_profile75_km.png"
-                     xlink:href="Figs/grav/bouguer_profile75_km.png"
-                     width="531.49603"
-                     height="398.62204"
-                     id="image28209"
-                     x="1700.7874"
-                     y="2425.3816" />
-                  <image
-                     sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/grav/bouguer_profile100_km.png"
-                     xlink:href="Figs/grav/bouguer_profile100_km.png"
-                     width="531.49603"
-                     height="398.62204"
-                     id="image28274"
-                     x="2267.7166"
-                     y="2425.3816" />
-                </g>
-              </g>
-            </g>
-          </g>
-        </g>
-        <g
-           id="g5512-2"
-           transform="translate(0,-1.5591481e-6)">
-          <g
-             id="g5451-1">
-            <g
-               id="g5435-7">
-              <g
-                 id="g5420-9">
-                <g
-                   transform="translate(0.49606299,-0.49606296)"
-                   id="g5191-8">
-                  <g
-                     id="g5178-8">
-                    <g
-                       id="g4023-2"
-                       transform="translate(-1160.9375,4.3307114)">
-                      <g
-                         style="stroke:none"
-                         id="g4015-2">
-                        <g
-                           style="stroke:none"
-                           id="g3885-2-6"
-                           transform="translate(-178.125,-231.24996)">
-                          <g
-                             id="g5040-3">
-                            <g
-                               id="g5032-34">
-                              <g
-                                 id="g5025-2">
-                                <rect
-                                   style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:0.99212599;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-                                   id="rect3762-2-7-93"
-                                   width="203.125"
-                                   height="75"
-                                   x="1339.0625"
-                                   y="1558.6" />
-                                <flowRoot
-                                   xml:space="preserve"
-                                   id="flowRoot3764-5-04-52"
-                                   style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-                                   transform="translate(40.625,-1971.0013)"><flowRegion
-                                   id="flowRegion3766-8-6-0"><rect
-                                   id="rect3768-0-4-6"
-                                   width="196.875"
-                                   height="71.875"
-                                   x="1301.5625"
-                                   y="3529.6013"
-                                   style="text-align:center;text-anchor:middle;stroke:none"
-                                   ry="1.5625" /></flowRegion><flowPara
-                                   id="flowPara3770-4-00-1"
-                                   style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none">0 km</flowPara></flowRoot>                              </g>
-                            </g>
-                          </g>
-                        </g>
-                      </g>
-                    </g>
-                  </g>
-                </g>
-              </g>
-            </g>
-            <g
-               id="g5339-4">
-              <g
-                 id="g5328-2">
-                <g
-                   id="g4023-4-4"
-                   transform="translate(-593.5123,3.8346484)">
-                  <g
-                     transform="translate(-178.125,-231.24996)"
-                     id="g5040-6-4"
-                     style="stroke:none">
-                    <g
-                       id="g5032-2-7">
-                      <g
-                         id="g5025-8-9">
-                        <rect
-                           style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:0.99212599;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-                           id="rect3762-2-7-5-3"
-                           width="203.125"
-                           height="75"
-                           x="1339.0625"
-                           y="1558.6" />
-                        <flowRoot
-                           xml:space="preserve"
-                           id="flowRoot3764-5-04-5-4"
-                           style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-                           transform="translate(40.625,-1971.0013)"><flowRegion
-                             id="flowRegion3766-8-6-7-4"><rect
-                               id="rect3768-0-4-2-5"
-                               width="196.875"
-                               height="71.875"
-                               x="1301.5625"
-                               y="3529.6013"
-                               style="text-align:center;text-anchor:middle;stroke:none"
-                               ry="1.5625" /></flowRegion><flowPara
-                             id="flowPara3770-4-00-7-6"
-                             style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none">25 km</flowPara></flowRoot>                      </g>
-                    </g>
-                  </g>
-                </g>
-              </g>
-            </g>
-            <g
-               id="g5362-6">
-              <g
-                 id="g5351-9">
-                <g
-                   style="stroke:none"
-                   id="g3885-2-9-3"
-                   transform="translate(-204.70817,-227.41531)">
-                  <g
-                     id="g5040-7-6">
-                    <g
-                       id="g5032-9-7">
-                      <g
-                         id="g5025-7-3">
-                        <rect
-                           style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:0.99212599;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-                           id="rect3762-2-7-7-0"
-                           width="203.125"
-                           height="75"
-                           x="1339.0625"
-                           y="1558.6" />
-                        <flowRoot
-                           xml:space="preserve"
-                           id="flowRoot3764-5-04-1-1"
-                           style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-                           transform="translate(40.625,-1971.0013)"><flowRegion
-                             id="flowRegion3766-8-6-76-2"><rect
-                               id="rect3768-0-4-4-3"
-                               width="196.875"
-                               height="71.875"
-                               x="1301.5625"
-                               y="3529.6013"
-                               style="text-align:center;text-anchor:middle;stroke:none"
-                               ry="1.5625" /></flowRegion><flowPara
-                             id="flowPara3770-4-00-0-5"
-                             style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none">50 km</flowPara></flowRoot>                      </g>
-                    </g>
-                  </g>
-                </g>
-              </g>
-            </g>
-            <g
-               id="g5385-8">
-              <g
-                 id="g5374-7">
-                <g
-                   style="stroke:none"
-                   id="g3885-2-0-4"
-                   transform="translate(362.22096,-227.41531)">
-                  <g
-                     id="g5040-2-1">
-                    <g
-                       id="g5032-3-2">
-                      <g
-                         id="g5025-5-6">
-                        <rect
-                           style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:0.99212599;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-                           id="rect3762-2-7-9-2"
-                           width="203.125"
-                           height="75"
-                           x="1339.0625"
-                           y="1558.6" />
-                        <flowRoot
-                           xml:space="preserve"
-                           id="flowRoot3764-5-04-0-0"
-                           style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-                           transform="translate(40.625,-1971.0013)"><flowRegion
-                             id="flowRegion3766-8-6-1-7"><rect
-                               id="rect3768-0-4-3-8"
-                               width="196.875"
-                               height="71.875"
-                               x="1301.5625"
-                               y="3529.6013"
-                               style="text-align:center;text-anchor:middle;stroke:none"
-                               ry="1.5625" /></flowRegion><flowPara
-                             id="flowPara3770-4-00-9-5"
-                             style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none">75 km</flowPara></flowRoot>                      </g>
-                    </g>
-                  </g>
-                </g>
-              </g>
-            </g>
-            <g
-               id="g5408-3">
-              <g
-                 id="g5397-3">
-                <g
-                   style="stroke:none"
-                   id="g3885-2-1-2"
-                   transform="translate(929.1501,-227.41531)">
-                  <g
-                     id="g5040-72-2">
-                    <g
-                       id="g5032-0-8">
-                      <g
-                         id="g5025-4-9">
-                        <rect
-                           style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:0.99212599;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-                           id="rect3762-2-7-59-8"
-                           width="203.125"
-                           height="75"
-                           x="1339.0625"
-                           y="1558.6" />
-                        <flowRoot
-                           xml:space="preserve"
-                           id="flowRoot3764-5-04-14-3"
-                           style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-                           transform="translate(40.625,-1971.0013)"><flowRegion
-                             id="flowRegion3766-8-6-6-5"><rect
-                               id="rect3768-0-4-8-6"
-                               width="196.875"
-                               height="71.875"
-                               x="1301.5625"
-                               y="3529.6013"
-                               style="text-align:center;text-anchor:middle;stroke:none"
-                               ry="1.5625" /></flowRegion><flowPara
-                             id="flowPara3770-4-00-73-4"
-                             style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none">100 km</flowPara></flowRoot>                      </g>
-                    </g>
-                  </g>
-                </g>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
-    <flowRoot
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       id="flowRoot89013-4-3"
-       xml:space="preserve"
-       transform="translate(-8.4238023,-599.39627)"><flowRegion
-         id="flowRegion89015-6-6"><rect
-           y="1081.4785"
-           x="1291.9526"
-           height="497.94009"
-           width="713.26556"
-           id="rect89017-8-2" /></flowRegion><flowPara
-         id="flowPara89019-9-1">ꔷ item 1</flowPara><flowPara
-         id="flowPara89021-7-4">ꔷ item 2</flowPara><flowPara
-         id="flowPara89023-0-4">ꔷ item 3</flowPara><flowPara
-         id="flowPara89025-9-0">ꔷ item 4</flowPara><flowPara
-         id="flowPara89027-0-7">ꔷ item 5</flowPara></flowRoot>  </g>
+       id="image3823"
+       x="3303.8386"
+       y="-1246.1554" />
+  </g>
 </svg>
