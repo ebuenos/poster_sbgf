@@ -14,7 +14,7 @@
    inkscape:export-ydpi="900"
    inkscape:export-xdpi="900"
    inkscape:export-filename="/home/edgar/Desktop/poster_sbgf/poster_sbgf.png"
-   sodipodi:docname="poster_sbgf_2.svg"
+   sodipodi:docname="poster_sbgf_2.pdf"
    inkscape:version="0.48.3.1 r9886"
    version="1.1"
    id="svg2"
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.64000003"
-     inkscape:cx="5405.7661"
-     inkscape:cy="1818.1906"
+     inkscape:zoom="0.16000001"
+     inkscape:cx="4159.6548"
+     inkscape:cy="1687.2667"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -2745,6 +2745,17 @@
          x="-1908.8042"
          y="-97.319992" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4041">
+      <rect
+         style="opacity:0.67901234;fill:#00000e;fill-opacity:1;stroke:#3b79b2;stroke-width:0.99444968;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect4043"
+         width="1464.0601"
+         height="668.74762"
+         x="-1890.234"
+         y="-101.60665" />
+    </clipPath>
   </defs>
   <metadata
      id="metadata7">
@@ -2754,7 +2765,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3281,7 +3292,8 @@
            height="161.79907"
            x="205.5486"
            y="3019.2573" /></flowRegion><flowPara
-         id="flowPara4349-9">2-D inversion resistivity model using REBOCC, Reduced Basis OCCAM algorithm,proposed by Siripunvaraporn and Egbert (2000). The RMS resistivity for this model is 1.98.</flowPara></flowRoot>    <flowRoot
+         id="flowPara4349-9"
+         style="text-anchor:start;text-align:justify">2-D inversion resistivity model using REBOCC, Reduced Basis OCCAM algorithm,proposed by Siripunvaraporn and Egbert (2000). The RMS resistivity for this model is 1.98.</flowPara></flowRoot>    <flowRoot
        transform="translate(2816.3125,-2458.9435)"
        xml:space="preserve"
        id="flowRoot4343-4"
@@ -3429,7 +3441,7 @@
          id="flowPara89023-0"
          style="font-size:40px;text-align:justify;text-anchor:start">ꔷ Siripunvaraporn, W; Egbert, G. 2000. An efficient data-subspace inversion method for 2-D magnetotelluric data. Geophysics. v. 65, p. 791-803.</flowPara><flowPara
          id="flowPara89027-1"
-         style="font-size:40px;text-align:justify;text-anchor:start">ꔷ Zalán, P.V et al. Bacia do Paraná. In: Gabaglia, G., and E. Milani, 1990, Origem e evolucãode bacias sedimentares: Petróleo Brasileiro, Serviço de Desenvolvimento de Recursos Humanos, Centro de Desenvolvimento de Recursos Humanos Sudeste. p. 135-168</flowPara><flowPara
+         style="font-size:40px;text-align:justify;text-anchor:start">ꔷ Zalán, P.V. et al. Bacia do Paraná. In: Gabaglia, G., and E. Milani, 1990, Origem e evolucãode bacias sedimentares: Petróleo Brasileiro, Serviço de Desenvolvimento de Recursos Humanos, Centro de Desenvolvimento de Recursos Humanos Sudeste. p. 135-168.</flowPara><flowPara
          style="font-size:36px;text-align:justify;text-anchor:start"
          id="flowPara4063"> </flowPara><flowPara
          style="font-size:36px;text-align:justify;text-anchor:start"
@@ -3445,7 +3457,8 @@
            y="1222.3356" /></flowRegion><flowPara
          id="flowPara4518" /></flowRoot>    <g
        id="g4605"
-       transform="translate(1938.6728,16.457883)">
+       transform="translate(1938.6555,28.069506)"
+       clip-path="url(#clipPath4041)">
       <g
          id="g4600">
         <g
@@ -4445,32 +4458,32 @@
            x="226.49513"
            y="1441.0968" /></flowRegion><flowPara
          id="flowPara4808" /></flowRoot>    <rect
-       style="fill:#ffffff;stroke-width:3.08267712999999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffffff;stroke-width:3.08267713;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4812"
-       width="250.80193"
-       height="70.710678"
+       width="266.2699"
+       height="76.234947"
        x="734.72815"
-       y="-724.25574" />
+       y="-729.78003" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="756.8252"
-       y="-708.78772"
+       y="-696.78772"
        id="text4814"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4816"
          x="756.8252"
-         y="-708.78772"
+         y="-696.78772"
          style="font-size:28px">FLUXGATE Magnetometer </tspan><tspan
          sodipodi:role="line"
          x="756.8252"
-         y="-673.78772"
+         y="-661.78772"
          style="font-size:28px"
          id="tspan4818">of 3 components</tspan><tspan
          sodipodi:role="line"
          x="756.8252"
-         y="-638.78772"
+         y="-626.78772"
          style="font-size:28px"
          id="tspan4820">(buried at ~60 cm)</tspan></text>
   </g>
