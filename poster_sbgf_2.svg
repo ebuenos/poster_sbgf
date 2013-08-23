@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.3749704"
-     inkscape:cx="5190.6943"
-     inkscape:cy="2233.6451"
+     inkscape:zoom="0.1874852"
+     inkscape:cx="3318.5898"
+     inkscape:cy="1556.4451"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -4293,7 +4293,7 @@
            width="968.96448"
            id="rect88943" /></flowRegion><flowPara
          id="flowPara88945" /></flowRoot>    <flowRoot
-       transform="translate(4092.9721,-4806.9637)"
+       transform="translate(5495.7495,-4566.9448)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot88955"
        xml:space="preserve"><flowRegion
@@ -4317,7 +4317,7 @@
            width="1199.0323"
            id="rect88973" /></flowRegion><flowPara
          id="flowPara88975" /></flowRoot>    <flowRoot
-       transform="translate(207.92502,-2290.23)"
+       transform="translate(191.92376,-1927.5347)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot88990"
        xml:space="preserve"><flowRegion
@@ -4408,21 +4408,26 @@
            width="877.45117"
            id="rect89006" /></flowRegion><flowPara
          id="flowPara89009" /></flowRoot>    <flowRoot
-       transform="translate(4635.6198,-1273.842)"
+       transform="translate(4491.6084,-2289.9222)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot89013"
        xml:space="preserve"><flowRegion
          id="flowRegion89015"><rect
            y="1081.4785"
            x="1291.9526"
-           height="497.94009"
-           width="713.26556"
+           height="577.94641"
+           width="1067.9603"
            id="rect89017" /></flowRegion><flowPara
-         id="flowPara89019">ꔷ item 1</flowPara><flowPara
-         id="flowPara89021">ꔷ item 2</flowPara><flowPara
-         id="flowPara89023">ꔷ item 3</flowPara><flowPara
-         id="flowPara89025">ꔷ item 4</flowPara><flowPara
-         id="flowPara89027">ꔷ item 5</flowPara></flowRoot>    <flowRoot
+         id="flowPara89019"
+         style="text-anchor:start;text-align:justify">ꔷ A gravimetric feature almost parallel and near the Paraná River indicates the presence of an anomalous deep body.</flowPara><flowPara
+         id="flowPara89021"
+         style="text-anchor:start;text-align:justify">ꔷ We have presented a 2-D geoelectric model of the deep structure in the Paraná Basin.</flowPara><flowPara
+         id="flowPara89023"
+         style="text-anchor:start;text-align:justify">ꔷ Presence of a high conductivity band in the upper part, that represents the sedimentary basin.</flowPara><flowPara
+         id="flowPara89025"
+         style="text-anchor:start;text-align:justify">ꔷ High resistivity body below the area of the basin.</flowPara><flowPara
+         id="flowPara89027"
+         style="text-anchor:start;text-align:justify">ꔷ Our model may help to understand the geological structure of the Paraná Basin.</flowPara></flowRoot>    <flowRoot
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"
        id="flowRoot89029"
        xml:space="preserve"><flowRegion
@@ -4441,16 +4446,16 @@
        xlink:href="/home/edgar/Desktop/poster_sbgf/Figs/mt/tm02.013_rsp16-30.png"
        sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/mt/tm02.013_rsp16-30.png" />
     <image
-       y="-1193.1354"
-       x="3090.158"
+       y="-1283.8092"
+       x="2975.4822"
        id="image89320"
        height="825.35114"
        width="1771.6536"
        xlink:href="/home/edgar/Desktop/poster_sbgf/Figs/mt/tm03_55E_model000.png"
        sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/mt/tm03_55E_model000.png" />
     <image
-       y="-1259.37"
-       x="5060.3457"
+       y="-1238.035"
+       x="4873.6641"
        id="image89382"
        height="779.52759"
        width="637.79529"
@@ -5292,5 +5297,20 @@
         </g>
       </g>
     </g>
-  </g>
+    <flowRoot
+       transform="translate(5210.0388,-1316.6318)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot89013-4"
+       xml:space="preserve"><flowRegion
+         id="flowRegion89015-9"><rect
+           y="1081.4785"
+           x="1291.9526"
+           height="497.94009"
+           width="713.26556"
+           id="rect89017-6" /></flowRegion><flowPara
+         id="flowPara89019-7">ꔷ item 1</flowPara><flowPara
+         id="flowPara89021-9">ꔷ item 2</flowPara><flowPara
+         id="flowPara89023-0">ꔷ item 3</flowPara><flowPara
+         id="flowPara89025-3">ꔷ item 4</flowPara><flowPara
+         id="flowPara89027-1">ꔷ item 5</flowPara></flowRoot>  </g>
 </svg>

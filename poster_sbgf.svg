@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.16"
-     inkscape:cx="5010.8098"
-     inkscape:cy="969.03024"
+     inkscape:cx="2814.4368"
+     inkscape:cy="359.20202"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -2472,7 +2472,7 @@
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot89013-4"
        xml:space="preserve"
-       transform="translate(1240.1141,-2200.7562)"><flowRegion
+       transform="translate(1067.2207,-2309.189)"><flowRegion
          id="flowRegion89015-6"><rect
            y="1081.4785"
            x="1291.9526"
@@ -3187,5 +3187,13 @@
            width="1455.6622"
            id="rect8512" /></flowRegion><flowPara
          style="font-size:48px;text-align:justify;text-anchor:start"
-         id="flowPara8514">The green contours and numbers indicate some of the main tectonic provinces within South American lithospheric plate, being (1) Mantiqueira Province; (2) Tocantins Province; and (3) Pantanal Basin. The red line represents the MT profile.</flowPara></flowRoot>  </g>
+         id="flowPara8514">The purple contours and numbers indicate some of the main tectonic provinces within South American lithospheric plate, being (1) Mantiqueira Province; (2) Tocantins Province; and (3) Pantanal Basin. The red line represents the MT profile.</flowPara></flowRoot>    <image
+       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/Dados4.png"
+       xlink:href="Figs/Dados4.png"
+       width="708.66144"
+       height="870.15906"
+       id="image3823"
+       x="2852.6252"
+       y="-1184.8013" />
+  </g>
 </svg>
