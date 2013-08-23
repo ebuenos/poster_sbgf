@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.1874852"
-     inkscape:cx="3318.5898"
-     inkscape:cy="1556.4451"
+     inkscape:cx="3722.3016"
+     inkscape:cy="1121.5493"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -3940,6 +3940,39 @@
          id="rect5032"
          style="fill:#000000;fill-opacity:1;stroke:none" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4327">
+      <rect
+         style="opacity:0.67901234;fill:#666666;fill-opacity:1;stroke:#3b79b2;stroke-width:0.98956686;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect4329"
+         width="1809.4762"
+         height="810.53326"
+         x="-193.3486"
+         y="1557.9205" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4333">
+      <rect
+         style="opacity:0.67901234;fill:#666666;fill-opacity:1;stroke:#3b79b2;stroke-width:0.99316508;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect4335"
+         width="1970.6265"
+         height="861.71198"
+         x="-1572.7296"
+         y="2327.2122" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4339">
+      <rect
+         style="opacity:0.67901234;fill:#666666;fill-opacity:1;stroke:#3b79b2;stroke-width:0.99042517;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect4341"
+         width="1860.1469"
+         height="822.57092"
+         x="-501.37292"
+         y="1869.9086" />
+    </clipPath>
   </defs>
   <metadata
      id="metadata7">
@@ -3999,7 +4032,7 @@
            width="572"
            id="rect8902" /></flowRegion><flowPara
          id="flowPara8904" /></flowRoot>    <g
-       transform="matrix(10,0,0,10,167.91881,-2413.6401)"
+       transform="matrix(10,0,0,10,271.02364,-2232.8834)"
        ns0:text="$|| \\textbf{y}^{0} - f(\\textbf{p}) ||^{2} &lt; \\delta$"
        ns0:preamble=""
        id="g518598">
@@ -4271,15 +4304,15 @@
       </g>
     </g>
     <flowRoot
-       transform="translate(-233.76137,-1665.7542)"
+       transform="translate(-333.45053,-2931.2918)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot604728"
        xml:space="preserve"><flowRegion
          id="flowRegion604730"><rect
            y="2260.2019"
            x="6002.7749"
-           height="468.1936"
-           width="1145.7421"
+           height="254.84352"
+           width="1264.4185"
            id="rect604732" /></flowRegion><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara604736">The authors were supported in this research by a fellowship (EBS) from CNPq, (HBS) from CGGVeritas-Brazil and INCT and, (IV and MBP) from INPE. Additional support for the authors was provided by the Brazilian agency FAPESP (grant 2009/50493-8). </flowPara></flowRoot>    <flowRoot
@@ -4293,7 +4326,7 @@
            width="968.96448"
            id="rect88943" /></flowRegion><flowPara
          id="flowPara88945" /></flowRoot>    <flowRoot
-       transform="translate(5495.7495,-4566.9448)"
+       transform="translate(5408.725,-4574.7099)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot88955"
        xml:space="preserve"><flowRegion
@@ -4317,37 +4350,33 @@
            width="1199.0323"
            id="rect88973" /></flowRegion><flowPara
          id="flowPara88975" /></flowRoot>    <flowRoot
-       transform="translate(191.92376,-1927.5347)"
+       transform="translate(271.93008,-1922.2009)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot88990"
        xml:space="preserve"><flowRegion
          id="flowRegion88992"><rect
            y="1757.7504"
            x="7064.7749"
-           height="1327.9706"
-           width="1649.4218"
+           height="1768.0054"
+           width="1646.7545"
            id="rect88994" /></flowRegion><flowPara
          id="flowPara88996" /><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara88998" /><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara89000">Egbert, G., and D. Livelybrooks, 1996, Single station magnetotelluric impedance estimation; coherence weighting and regression M-estimate: Geophysics, 61, 964–970.</flowPara><flowPara
+         id="flowPara89004" /><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara89002">Egbert, G. D., and J. R. Booker, 1986, Robust estimation of geomagnetic transfer functions: Geophysical Journal International, 87, 173–194.</flowPara><flowPara
-         style="text-align:justify;text-anchor:start"
-         id="flowPara89004">Martí, A.; Queral, P.; Ledo, J. 2009. WALDIM: A code for the dimensionality analysis of magnetotelluric data using the rotational invariants of the magnetotelluric tensor. Journal Computer &amp; Geosciences. v.35, p.2295-2303</flowPara><flowPara
-         style="text-align:justify;text-anchor:start"
-         id="flowPara89006">Sá, N. C. de. 2004. O campo de gravidade, o geóide e a estrutura crustal na América do Sul: novas estratégias de representação. Tese (Livre Docência) - Instituto de Astronomia, Geofísica e Ciências Atmosféricas, Universidade de São Paulo, São Paulo. 122 p.</flowPara><flowPara
-         id="flowPara89026"
-         style="text-align:justify;text-anchor:start">Santos, H. B; Ussami, N. 2011. Tensor gradiente gravimétrico da Bacia do Paraná. Dissertação de Mestrado – Instituto de Astronomia, Geofísica e Ciências Atmosféricas, Universidade de São Paulo. 97p.</flowPara><flowPara
-         id="flowPara89030"
-         style="text-align:justify;text-anchor:start">Simpson, F.; Bahr, K. Pratical Magnetotellurics. Cambridge University Press, 207 p.</flowPara><flowPara
+         id="flowPara89006" /><flowPara
          id="flowPara89028"
-         style="text-align:justify;text-anchor:start">Siripunvaraporn, W; Egbert, G. 2000. An efficient data-subspace inversion method for 2-D magnetotelluric data. Geophysics. v. 65, p. 791-803.</flowPara><flowPara
-         id="flowPara89032"
-         style="text-align:justify;text-anchor:start">Gabaglia, G., and E. Milani, 1990, Origem e evolucãode bacias sedimentares: Petróleo Brasileiro, Serviço de Desenvolvimento de Recursos Humanos, Centro de Desenvolvimento de Recursos Humanos Sudeste.</flowPara><flowPara
-         id="flowPara89034"
-         style="text-align:justify;text-anchor:start">Zalán, P.V et al. 1991.Origem e evolução de bacias sedimentares. PETROBRAS.p.135-168</flowPara><flowPara
+         style="text-align:justify;text-anchor:start" /><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara4344" /><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara4340" /><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara4336" /><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara4338" /><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara89008" /><flowPara
          style="text-align:justify;text-anchor:start"
@@ -4376,28 +4405,30 @@
            width="416.80649"
            id="rect88981" /></flowRegion><flowPara
          id="flowPara88983" /></flowRoot>    <flowRoot
-       transform="translate(-815.9086,-1886.7219)"
+       transform="translate(-965.86829,-1763.9275)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot88985"
        xml:space="preserve"><flowRegion
          id="flowRegion88987"><rect
            y="1143.0083"
            x="1050.5808"
-           height="232.19362"
-           width="964.93561"
+           height="183.16367"
+           width="946.07788"
            id="rect88989" /></flowRegion><flowPara
-         style="text-align:justify;text-anchor:start"
-         id="flowPara88991">A MT survey consists in the measurement of variations of orthogonal components of the electric field (E<flowSpan
+         style="font-size:36px;text-align:justify;text-anchor:start"
+         id="flowPara88991"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan4295">Figure 6: </flowSpan>A MT survey consists in the measurement of variations of orthogonal components of the electric field (E<flowSpan
    id="flowSpan88993"
-   style="font-size:65.00091553%;baseline-shift:sub">x</flowSpan> e E<flowSpan
+   style="font-size:36px;baseline-shift:sub">x</flowSpan> e E<flowSpan
    id="flowSpan88995"
-   style="font-size:65.00091553%;baseline-shift:sub">y</flowSpan>) and magnetic field (H<flowSpan
+   style="font-size:36px;baseline-shift:sub">y</flowSpan>) and magnetic field (H<flowSpan
    id="flowSpan88997"
-   style="font-size:65.00091553%;baseline-shift:sub">x</flowSpan>, H<flowSpan
+   style="font-size:36px;baseline-shift:sub">x</flowSpan>, H<flowSpan
    id="flowSpan88999"
-   style="font-size:65.00091553%;baseline-shift:sub">y</flowSpan> e H<flowSpan
+   style="font-size:36px;baseline-shift:sub">y</flowSpan> e H<flowSpan
    id="flowSpan89001"
-   style="font-size:65.00091553%;baseline-shift:sub">z</flowSpan>) in the Earth's surface.</flowPara></flowRoot>    <flowRoot
+   style="font-size:36px;baseline-shift:sub">z</flowSpan>) in the Earth's surface.</flowPara></flowRoot>    <flowRoot
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"
        id="flowRoot89002"
        xml:space="preserve"><flowRegion
@@ -4408,26 +4439,26 @@
            width="877.45117"
            id="rect89006" /></flowRegion><flowPara
          id="flowPara89009" /></flowRoot>    <flowRoot
-       transform="translate(4491.6084,-2289.9222)"
+       transform="translate(4389.6391,-2444.548)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot89013"
        xml:space="preserve"><flowRegion
          id="flowRegion89015"><rect
            y="1081.4785"
            x="1291.9526"
-           height="577.94641"
-           width="1067.9603"
+           height="484.60583"
+           width="1255.386"
            id="rect89017" /></flowRegion><flowPara
          id="flowPara89019"
-         style="text-anchor:start;text-align:justify">ꔷ A gravimetric feature almost parallel and near the Paraná River indicates the presence of an anomalous deep body.</flowPara><flowPara
+         style="text-align:justify;text-anchor:start">ꔷ A gravimetric feature almost parallel and near the Paraná River indicates the presence of an anomalous deep body.</flowPara><flowPara
          id="flowPara89021"
-         style="text-anchor:start;text-align:justify">ꔷ We have presented a 2-D geoelectric model of the deep structure in the Paraná Basin.</flowPara><flowPara
+         style="text-align:justify;text-anchor:start">ꔷ We have presented a 2-D geoelectric model of the deep structure in the Paraná Basin.</flowPara><flowPara
          id="flowPara89023"
-         style="text-anchor:start;text-align:justify">ꔷ Presence of a high conductivity band in the upper part, that represents the sedimentary basin.</flowPara><flowPara
+         style="text-align:justify;text-anchor:start">ꔷ Presence of a high conductivity band in the upper part, that represents the sedimentary basin.</flowPara><flowPara
          id="flowPara89025"
-         style="text-anchor:start;text-align:justify">ꔷ High resistivity body below the area of the basin.</flowPara><flowPara
+         style="text-align:justify;text-anchor:start">ꔷ High resistivity body below the area of the basin.</flowPara><flowPara
          id="flowPara89027"
-         style="text-anchor:start;text-align:justify">ꔷ Our model may help to understand the geological structure of the Paraná Basin.</flowPara></flowRoot>    <flowRoot
+         style="text-align:justify;text-anchor:start">ꔷ Our model may help to understand the geological structure of the Paraná Basin.</flowPara></flowRoot>    <flowRoot
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"
        id="flowRoot89029"
        xml:space="preserve"><flowRegion
@@ -4438,67 +4469,73 @@
            width="966.83881"
            id="rect89033" /></flowRegion><flowPara
          id="flowPara89035" /></flowRoot>    <image
-       y="85.550484"
-       x="2077.9065"
+       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/mt/tm02.013_rsp16-30.png"
+       xlink:href="Figs/mt/tm02.013_rsp16-30.png"
+       width="637.79529"
+       height="779.52759"
        id="image89258"
-       height="779.52759"
-       width="637.79529"
-       xlink:href="/home/edgar/Desktop/poster_sbgf/Figs/mt/tm02.013_rsp16-30.png"
-       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/mt/tm02.013_rsp16-30.png" />
+       x="2042.6357"
+       y="-52.98851" />
     <image
-       y="-1283.8092"
-       x="2975.4822"
+       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/mt/tm03_55E_model000.png"
+       xlink:href="Figs/mt/tm03_55E_model000.png"
+       transform="matrix(0.81572403,0,0,0.81572403,4214.1027,-3270.4384)"
+       clip-path="url(#clipPath4333)"
+       width="1771.6536"
+       height="825.35114"
        id="image89320"
-       height="825.35114"
-       width="1771.6536"
-       xlink:href="/home/edgar/Desktop/poster_sbgf/Figs/mt/tm03_55E_model000.png"
-       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/mt/tm03_55E_model000.png" />
+       x="-1482.0917"
+       y="2283.3594" />
     <image
-       y="-1238.035"
-       x="4873.6641"
+       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/mt/tm03_55E.000_rsp01-15.png"
+       xlink:href="Figs/mt/tm03_55E.000_rsp01-15.png"
+       width="825.44647"
+       height="1008.879"
        id="image89382"
-       height="779.52759"
-       width="637.79529"
-       xlink:href="/home/edgar/Desktop/poster_sbgf/Figs/mt/tm03_55E.000_rsp01-15.png"
-       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/mt/tm03_55E.000_rsp01-15.png" />
+       x="4594.4243"
+       y="-1381.0225" />
     <image
-       y="-31.757664"
-       x="3020.8191"
+       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/mt/tmte03_55_mod_model009.png"
+       xlink:href="Figs/mt/tmte03_55_mod_model009.png"
+       transform="translate(3424.2166,-1816.3756)"
+       clip-path="url(#clipPath4339)"
+       width="1771.6536"
+       height="825.35114"
        id="image89444"
-       height="825.35114"
-       width="1771.6536"
-       xlink:href="/home/edgar/Desktop/poster_sbgf/Figs/mt/tmte03_55_mod_model009.png"
-       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/mt/tmte03_55_mod_model009.png" />
+       x="-434.33096"
+       y="1826.9266" />
     <image
-       y="-79.810829"
-       x="4980.3394"
-       id="image89506"
-       height="779.52759"
+       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/mt/tmte03_55_mod.009_rspTETM31-43.png"
+       xlink:href="Figs/mt/tmte03_55_mod.009_rspTETM31-43.png"
        width="637.79529"
-       xlink:href="/home/edgar/Desktop/poster_sbgf/Figs/mt/tmte03_55_mod.009_rspTETM31-43.png"
-       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/mt/tmte03_55_mod.009_rspTETM31-43.png" />
+       height="779.52759"
+       id="image89506"
+       x="4911.0005"
+       y="85.535553" />
     <image
-       y="104.58274"
-       x="161.60771"
-       id="image89587"
-       height="825.35114"
+       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/mt/tm02_model013_pt-BR.png"
+       xlink:href="Figs/mt/tm02_model013_pt-BR.png"
+       transform="translate(205.72039,-1631.2899)"
+       clip-path="url(#clipPath4327)"
        width="1771.6536"
-       xlink:href="/home/edgar/Desktop/poster_sbgf/Figs/mt/tm02_model013_pt-BR.png"
-       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/mt/tm02_model013_pt-BR.png" />
+       height="825.35114"
+       id="image89587"
+       x="-170.28732"
+       y="1515.4044" />
     <image
-       y="-1307.5857"
-       x="519.3847"
+       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/coleta.jpg"
+       xlink:href="Figs/coleta.jpg"
+       width="832.3429"
+       height="708.66144"
        id="image89668"
-       height="424"
-       width="498"
-       xlink:href="/home/edgar/Desktop/poster_sbgf/Figs/coleta.jpg"
-       sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/coleta.jpg" />
+       x="140.08705"
+       y="-1382.9139" />
     <g
-       id="g9487">
+       id="g4554">
       <g
-         id="g9444">
+         id="g4511">
         <g
-           id="g9402">
+           id="g4469">
           <rect
              style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:7.00653934;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
              id="rect42376"
@@ -4556,19 +4593,19 @@
                  x="623.52795"
                  y="-471.32532" /></flowRegion><flowPara
                id="flowPara9031"
-               style="text-align:center;text-anchor:middle;fill:#ffffff">¹ Institute of Physics, University of São Paulo; ² Department of Petroleum Engineering ,University of Campinas</flowPara><flowPara
+               style="text-align:center;text-anchor:middle;fill:#ffffff">¹ Institute of Physics, University of São Paulo; ² Department of Petroleum Engineering, University of Campinas</flowPara><flowPara
                style="text-align:center;text-anchor:middle;fill:#ffffff"
                id="flowPara5283">³ Space Geophysics Division, National Institute for Space Research (INPE)</flowPara></flowRoot>          <image
              sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/1.jpg"
-             xlink:href="/home/edgar/Desktop/poster_sbgf/Figs/1.jpg"
-             transform="matrix(1.217408,0,0,1.217408,546.67116,1123.9254)"
-             clip-path="url(#clipPath5030)"
-             style="stroke:#000000;stroke-width:0.99212599;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-             width="590.78931"
-             height="354.33072"
-             id="image4303"
+             xlink:href="Figs/1.jpg"
+             y="-2668.1104"
              x="-422.51025"
-             y="-2668.1104" />
+             id="image4303"
+             height="354.33072"
+             width="590.78931"
+             style="stroke:#000000;stroke-width:0.99212599;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             clip-path="url(#clipPath5030)"
+             transform="matrix(1.217408,0,0,1.217408,546.67116,1123.9254)" />
           <flowRoot
              xml:space="preserve"
              id="flowRoot5061"
@@ -4584,7 +4621,7 @@
                id="flowPara5071">Rio de Janeiro, Brazil, 26 - 29 August 2013 ꔷ  SulAmérica Convention Center </flowPara></flowRoot>          <flowRoot
              xml:space="preserve"
              id="flowRoot5077"
-             style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;text-anchor:middle;text-align:center"
+             style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
              transform="translate(390.22625,-509.04151)"><flowRegion
                id="flowRegion5079"><rect
                  id="rect5081"
@@ -4592,9 +4629,9 @@
                  height="197.93555"
                  x="430.12909"
                  y="-1538.6371"
-                 style="text-anchor:middle;text-align:center" /></flowRegion><flowPara
+                 style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
                id="flowPara5083"
-               style="font-size:96px;font-weight:bold;fill:#ffffff;-inkscape-font-specification:Sans Bold;text-anchor:middle;text-align:center">JOINT INTERPRETATION OF MAGNETOTELLURIC AND GRAVIMETRIC DATA IN THE PARANÁ BASIN</flowPara></flowRoot>          <path
+               style="font-size:96px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold">JOINT INTERPRETATION OF MAGNETOTELLURIC AND GRAVIMETRIC DATA IN THE PARANÁ BASIN</flowPara></flowRoot>          <path
              sodipodi:type="arc"
              style="fill:#ffffff;fill-opacity:1;stroke:none"
              id="path5214"
@@ -4646,25 +4683,25 @@
           </g>
           <image
              sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/logo/usp.jpeg"
-             xlink:href="/home/edgar/Desktop/poster_sbgf/Figs/logo/usp.jpeg"
-             width="510.28046"
-             height="200.97638"
-             id="image5211"
+             xlink:href="Figs/logo/usp.jpeg"
+             y="-2092.189"
              x="6067.2026"
-             y="-2092.189" />
+             id="image5211"
+             height="200.97638"
+             width="510.28046" />
           <image
              sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/logo/inpe.png"
-             xlink:href="/home/edgar/Desktop/poster_sbgf/Figs/logo/inpe.png"
-             width="248.03149"
-             height="200.95982"
-             id="image5149"
+             xlink:href="Figs/logo/inpe.png"
+             y="-2089.4248"
              x="6665.5928"
-             y="-2089.4248" />
+             id="image5149"
+             height="200.95982"
+             width="248.03149" />
         </g>
       </g>
     </g>
     <g
-       transform="translate(-1251.1354,1755.4736)"
+       transform="translate(-1467.3283,1712.977)"
        id="g6284">
       <rect
          style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:3.67015648;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -4688,88 +4725,87 @@
            id="flowPara604726"
            style="font-size:50px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold">MT DATA ACQUISITION</flowPara></flowRoot>    </g>
     <g
-       transform="translate(2263.0788,1574.6487)"
-       id="g6291">
-      <rect
-         style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:3.68779445;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="rect5285-6"
-         width="1059.3043"
-         height="97.371834"
-         x="3551.2566"
-         y="-3033.3733" />
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot604720-0"
-         style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         transform="translate(2010.4693,-4196.2625)"><flowRegion
-           id="flowRegion604722-7"><rect
-             id="rect604724-3"
-             width="1059.9792"
-             height="69.462898"
-             x="1540.9227"
-             y="1175.6835"
-             style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
-           id="flowPara604726-66"
-           style="font-size:50px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold">CONCLUSIONS</flowPara></flowRoot>    </g>
-    <g
-       transform="translate(688.54651,3588.638)"
-       id="g6310">
+       id="g4413">
       <g
-         id="g6303">
+         id="g4410">
         <rect
-           style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:3.68779445;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           id="rect5285-8"
-           width="1059.3043"
+           y="-1523.7791"
+           x="5672.7319"
            height="97.371834"
-           x="5093.7866"
-           y="-3198.0183" />
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot604720-7"
-           style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-           transform="translate(3552.9993,-4360.9076)"><flowRegion
-             id="flowRegion604722-62"><rect
-               id="rect604724-17"
-               width="1059.9792"
-               height="90.398384"
-               x="1540.9227"
-               y="1175.6835"
-               style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
-             id="flowPara604726-5"
-             style="font-size:50px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold">ACKNOWLEDGEMENTS</flowPara></flowRoot>      </g>
-    </g>
-    <g
-       transform="translate(1733.8181,2160.2875)"
-       id="g6380">
-      <g
-         id="g6372">
-        <g
-           id="g6365">
-          <rect
-             y="-2645.4636"
-             x="4057.6636"
-             height="97.371834"
-             width="1059.3043"
-             id="rect5285-8-2"
-             style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:3.68779445;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-          <flowRoot
-             transform="translate(2516.8763,-3808.3529)"
-             style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-             id="flowRoot604720-7-9"
-             xml:space="preserve"><flowRegion
-               id="flowRegion604722-62-2"><rect
-                 style="text-align:center;text-anchor:middle"
-                 y="1175.6835"
-                 x="1540.9227"
-                 height="90.398384"
-                 width="1059.9792"
-                 id="rect604724-17-2" /></flowRegion><flowPara
-               style="font-size:50px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold"
-               id="flowPara604726-5-5">REFERENCES</flowPara></flowRoot>        </g>
+           width="1250.2035"
+           id="rect5285-6"
+           style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:4.00632954;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       </g>
     </g>
+    <flowRoot
+       transform="translate(4134.8434,-2686.6683)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot604720-0"
+       xml:space="preserve"><flowRegion
+         id="flowRegion604722-7"><rect
+           style="text-align:center;text-anchor:middle"
+           y="1175.6835"
+           x="1540.9227"
+           height="69.462891"
+           width="1246.6605"
+           id="rect604724-3" /></flowRegion><flowPara
+         style="font-size:50px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold"
+         id="flowPara604726-66">CONCLUSIONS</flowPara></flowRoot>    <g
+       id="g4517"
+       transform="translate(0,-14)">
+      <g
+         id="g4514">
+        <rect
+           style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:4.03576899;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect5285-8"
+           width="1268.6447"
+           height="97.371834"
+           x="5670.1836"
+           y="-815.58289" />
+      </g>
+      <flowRoot
+         transform="translate(4131.8579,-1978.4722)"
+         style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot604720-7"
+         xml:space="preserve"><flowRegion
+           id="flowRegion604722-62"><rect
+             style="text-align:center;text-anchor:middle"
+             y="1175.6835"
+             x="1540.9227"
+             height="82.397835"
+             width="1259.6616"
+             id="rect604724-17" /></flowRegion><flowPara
+           style="font-size:50px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold"
+           id="flowPara604726-5">ACKNOWLEDGEMENTS</flowPara></flowRoot>    </g>
     <g
-       transform="translate(-826.73194,-1546.7888)"
+       id="g4448"
+       transform="translate(0.665591,370.69593)">
+      <g
+         id="g4445">
+        <rect
+           style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:4.0240078;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect5285-8-2"
+           width="1261.2612"
+           height="97.371834"
+           x="5674.3608"
+           y="-555.50177" />
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot604720-7-9"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(4138.0454,-1349.0285)"><flowRegion
+         id="flowRegion604722-62-2"><rect
+           id="rect604724-17-2"
+           width="1268.0101"
+           height="107.98962"
+           x="1540.9227"
+           y="1175.6835"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara604726-5-5"
+         style="font-size:50px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold">REFERENCES</flowPara></flowRoot>    <g
+       transform="translate(-989.00751,-1728.1364)"
        id="g6593">
       <g
          id="g6585">
@@ -4799,7 +4835,7 @@
       </g>
     </g>
     <g
-       transform="translate(1399.9121,1718.3385)"
+       transform="translate(1346.4585,1675.5585)"
        id="g6559">
       <g
          id="g6552">
@@ -4826,7 +4862,7 @@
              style="font-size:50px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold">SENSITIVITY OF THE TRANSVERSE MAGNETIC MODE</flowPara></flowRoot>      </g>
     </g>
     <g
-       transform="translate(4069.9207,3002.2556)"
+       transform="translate(4075.2545,3162.2682)"
        id="g6526">
       <g
          id="g6519">
@@ -4852,41 +4888,31 @@
              id="flowPara604726-5-7-1"
              style="font-size:50px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold">2D INVERSION FOR THE TRANSVERSE MAGNETIC AND ELECTRIC MODE</flowPara></flowRoot>      </g>
     </g>
-    <g
-       transform="translate(111.09372,-3126.9662)"
-       id="g6655">
-      <g
-         id="g6647">
-        <g
-           id="g6640">
-          <rect
-             style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:3.67015648;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-             id="rect5285-3"
-             width="1059.322"
-             height="97.374924"
-             x="1417.1593"
-             y="1627.7118" />
-          <flowRoot
-             xml:space="preserve"
-             id="flowRoot604720-75"
-             style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-             transform="translate(-123.62637,464.8243)"><flowRegion
-               id="flowRegion604722-3"><rect
-                 id="rect604724-8"
-                 width="1058.076"
-                 height="67.559669"
-                 x="1540.9227"
-                 y="1175.6835"
-                 style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
-               id="flowPara604726-1"
-               style="font-size:50px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold">INVERSE PROBLEM</flowPara></flowRoot>        </g>
-      </g>
-    </g>
-    <g
+    <rect
+       y="-1523.7734"
+       x="1504.7791"
+       height="97.374924"
+       width="1299.6986"
+       id="rect5285-3"
+       style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:4.06529379;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <flowRoot
+       transform="translate(-40.9195,-2686.6609)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot604720-75"
+       xml:space="preserve"><flowRegion
+         id="flowRegion604722-3"><rect
+           style="text-align:center;text-anchor:middle"
+           y="1175.6835"
+           x="1540.9227"
+           height="69.445457"
+           width="1303.2257"
+           id="rect604724-8" /></flowRegion><flowPara
+         style="font-size:50px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold"
+         id="flowPara604726-1">INVERSE PROBLEM</flowPara></flowRoot>    <g
        id="g7905"
        ns0:preamble=""
        ns0:text="$\\Gamma(\\textbf{p}) = || \\textbf{y}^{0} - f(\\textbf{p}) ||^{2} + \\mu\\Phi(\\textbf{p})$"
-       transform="matrix(10,0,0,10,-746.72562,-2021.4929)">
+       transform="matrix(10,0,0,10,-733.52525,-1773.0559)">
       <defs
          id="defs7907">
         <g
@@ -5298,19 +5324,130 @@
       </g>
     </g>
     <flowRoot
-       transform="translate(5210.0388,-1316.6318)"
+       transform="translate(4377.2659,-1117.263)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot89013-4"
        xml:space="preserve"><flowRegion
          id="flowRegion89015-9"><rect
            y="1081.4785"
            x="1291.9526"
-           height="497.94009"
-           width="713.26556"
+           height="868.40033"
+           width="1271.7476"
            id="rect89017-6" /></flowRegion><flowPara
-         id="flowPara89019-7">ꔷ item 1</flowPara><flowPara
-         id="flowPara89021-9">ꔷ item 2</flowPara><flowPara
-         id="flowPara89023-0">ꔷ item 3</flowPara><flowPara
-         id="flowPara89025-3">ꔷ item 4</flowPara><flowPara
-         id="flowPara89027-1">ꔷ item 5</flowPara></flowRoot>  </g>
+         id="flowPara89019-7"
+         style="font-size:40px;text-align:justify;text-anchor:start">ꔷ Sá, N. C. de. 2004. O campo de gravidade, o geóide e a estrutura crustal na América do Sul: novas estratégias de representação. Tese (Livre Docência) - Instituto de Astronomia, Geofísica e Ciências Atmosféricas, Universidade de São Paulo, São Paulo. 122 p.</flowPara><flowPara
+         id="flowPara89021-9"
+         style="font-size:40px;text-align:justify;text-anchor:start">ꔷ Santos, H. B; Ussami, N. 2011. Tensor gradiente gravimétrico da Bacia do Paraná. Dissertação de Mestrado – Instituto de Astronomia, Geofísica e Ciências Atmosféricas, Universidade de São Paulo. 97p.</flowPara><flowPara
+         id="flowPara89023-0"
+         style="font-size:40px;text-align:justify;text-anchor:start">ꔷ Siripunvaraporn, W; Egbert, G. 2000. An efficient data-subspace inversion method for 2-D magnetotelluric data. Geophysics. v. 65, p. 791-803.</flowPara><flowPara
+         id="flowPara89027-1"
+         style="font-size:40px;text-align:justify;text-anchor:start">ꔷ Zalán, P.V et al. Bacia do Paraná. In: Gabaglia, G., and E. Milani, 1990, Origem e evolucãode bacias sedimentares: Petróleo Brasileiro, Serviço de Desenvolvimento de Recursos Humanos, Centro de Desenvolvimento de Recursos Humanos Sudeste. p. 135-168 </flowPara></flowRoot>    <flowRoot
+       transform="translate(5962.9808,-2491.39)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot89013-4-5"
+       xml:space="preserve"><flowRegion
+         id="flowRegion89015-9-7"><rect
+           y="1081.4785"
+           x="1291.9526"
+           height="527.2757"
+           width="1166.6348"
+           id="rect89017-6-2" /></flowRegion><flowPara
+         id="flowPara89019-7-1">ꔷ item 1</flowPara><flowPara
+         id="flowPara89021-9-6">ꔷ item 2</flowPara><flowPara
+         id="flowPara89023-0-6">ꔷ item 3</flowPara><flowPara
+         id="flowPara89025-3-7">ꔷ item 4</flowPara><flowPara
+         id="flowPara89027-1-8">ꔷ item 5</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4600"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4602"><rect
+           id="rect4604"
+           width="716.59143"
+           height="143.31828"
+           x="1780.1639"
+           y="1137.2618" /></flowRegion><flowPara
+         id="flowPara4606" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4608"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-249.63355,-2490.7711)"><flowRegion
+         id="flowRegion4610"><rect
+           id="rect4612"
+           width="1301.1793"
+           height="152.74716"
+           x="1755.649"
+           y="1095.775" /></flowRegion><flowPara
+         id="flowPara4616"
+         style="text-align:justify;text-anchor:start">The inversion problem consists in searching the parameters vector <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan4618">p</flowSpan> that fit with the observed data vector <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan4624">y<flowSpan
+   style="font-size:65.00091553%;baseline-shift:super"
+   id="flowSpan4626">0</flowSpan></flowSpan> with some precision δ through the least squares method.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4630"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-181.03362,-2489.7258)"><flowRegion
+         id="flowRegion4632"><rect
+           id="rect4634"
+           width="1304.9506"
+           height="303.60843"
+           x="1685.8756"
+           y="1578.5314" /></flowRegion><flowPara
+         id="flowPara4640"
+         style="text-align:justify;text-anchor:start">It is an ill-posed problem, since it has many different solutions, therefore requires additional information to be solved. This information can be imposed by a regularization function Φ(<flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan4646">p</flowSpan>) that must be consistent with prior information. So the problem consists now in finding the parameters <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan4648">p</flowSpan> that minimizes the equation:</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4343"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(0,-2136.6263)"><flowRegion
+         id="flowRegion4345"><rect
+           id="rect4347"
+           width="1606.6733"
+           height="96.174049"
+           x="205.5486"
+           y="3019.2573" /></flowRegion><flowPara
+         id="flowPara4349"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan4395">Figure 7:</flowSpan> 2-D inversion resistivity model using REBOCC (logarithmic scale). The RMS resistivity for this model is 1.27 Ωm.</flowPara></flowRoot>    <flowRoot
+       transform="translate(2807.4105,-3662.1978)"
+       xml:space="preserve"
+       id="flowRoot4343-2"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion4345-5"><rect
+           id="rect4347-0"
+           width="1606.6733"
+           height="96.174049"
+           x="205.5486"
+           y="3019.2573" /></flowRegion><flowPara
+         id="flowPara4349-9"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan4391">Figure 9:</flowSpan> 2-D inversion resistivity model using REBOCC (logarithmic scale). The RMS resistivity for this model is 1.98 Ωm.</flowPara></flowRoot>    <flowRoot
+       transform="translate(3030.0948,-2163.4127)"
+       xml:space="preserve"
+       id="flowRoot4343-4"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion4345-57"><rect
+           id="rect4347-5"
+           width="1606.6733"
+           height="96.174049"
+           x="205.5486"
+           y="3019.2573" /></flowRegion><flowPara
+         id="flowPara4349-3"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan4393">Figure 11:</flowSpan> 2-D inversion resistivity model using REBOCC (logarithmic scale). The RMS resistivity for this model is 2.47 Ωm.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4397"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4399"><rect
+           id="rect4401"
+           width="90.673828"
+           height="144.01137"
+           x="688.05432"
+           y="2260.9031" /></flowRegion><flowPara
+         id="flowPara4403" /></flowRoot>  </g>
 </svg>
